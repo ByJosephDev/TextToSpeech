@@ -1,0 +1,3 @@
+D:\ApplicationsInstitute\Aplicacion-Multiplataforma\Lab07_AppMultiplataforma\Ejercicio04\Ejercicio04.Android\obj\Release\120\MonoAndroid,Version=v12.0.AssemblyAttributes.cs
+D:\ApplicationsInstitute\Aplicacion-Multiplataforma\Lab07_AppMultiplataforma\Ejercicio04\Ejercicio04.Android\obj\Release\120\build.props
+D:\ApplicationsInstitute\Aplicacion-Multiplataforma\Lab07_AppMultiplataforma\Ejercicio04\Ejercicio04.Android\obj\Release\120\adb.props
